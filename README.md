@@ -12,6 +12,10 @@
 
 <br />
 
+**Gruvbox Plus Personal**, I forked the **Gruvbox Plus** icon pack because of how much I enjoyed the icon pack. over the year I have used it, I created a couple icons of my own in addition in order to cover gaps within icon coverage (which is pretty rare, this icon pack is very comprehensive). Mainly just steam games that i own. 
+
+Everything below is identical to the original repo.
+
 **Gruvbox Plus** is the icon pack for Linux, based on and inspired by [Suru++](https://github.com/gusbemacbe/suru-plus), [OneDark](https://github.com/adhec/one-dark-icons), [Gruvbox icon pack](https://store.kde.org/p/1327720/), [GruvboxMateria](https://github.com/FilipeMCruz/dotfiles/tree/master/current/icons/.local/share/icons/MateriaGruvbox), [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme), and original Breeze Dark from KDE.
 
 **Gruvbox Plus** is using color scheme from [Gruvbox](https://github.com/morhetz/gruvbox).
