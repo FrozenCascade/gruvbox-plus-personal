@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="omori.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="25"
+     inkscape:cx="8.06"
+     inkscape:cy="16.98"
+     inkscape:window-width="1916"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs1">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 8 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="16 : 8 : 1"
+       inkscape:persp3d-origin="8 : 5.3333333 : 1"
+       id="perspective1" />
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 1"
+     transform="matrix(0.87360438,0,0,0.87360438,0.99663257,1.019215)">
+    <path
+       d="M 6.6426191,2.9491075 H 11.74634 a 0.34748765,0.34748765 0 1 0 0,-0.6949748 H 6.6426191 a 0.34748765,0.34748765 0 0 0 0,0.6949748 z"
+       class="clr-i-solid--badged clr-i-solid-path-1--badged"
+       id="path1"
+       style="fill:#ebdbb2;fill-opacity:1;stroke-width:0.434358" />
+    <path
+       d="m 7.450527,1.6460301 h 3.474874 a 0.34748739,0.34748739 0 1 0 0,-0.69497397 H 7.450527 a 0.34748739,0.34748739 0 1 0 0,0.69497397 z"
+       class="clr-i-solid--badged clr-i-solid-path-2--badged"
+       id="path2"
+       style="fill:#ebdbb2;fill-opacity:1;stroke-width:0.434358" />
+    <path
+       d="M 7.2333471,13.004526 A 3.2446634,3.2446634 0 0 1 7.0161674,14.116484 4.7779517,4.7779517 0 0 0 13.965917,9.8597633 4.6389565,4.6389565 0 0 0 13.531556,7.8486802 7.1061169,7.1061169 0 0 0 13.045074,7.0755207 7.3841069,7.3841069 0 0 1 12.176356,5.5682948 7.0322759,7.0322759 0 0 1 11.920085,3.8308568 H 9.44858 V 6.2241762 L 10.690847,7.5837206 9.3877699,8.8867995 A 0.34748739,0.34748739 0 0 1 8.8969432,8.3959718 L 9.7178824,7.5750337 8.7536048,6.4891359 V 3.8091389 H 6.4515016 A 7.0322759,7.0322759 0 0 1 6.1952294,5.5465769 7.3841069,7.3841069 0 0 1 5.3265099,7.0538027 7.0843993,7.0843993 0 0 0 4.8443713,7.8530229 4.6172387,4.6172387 0 0 0 4.4100128,9.7772357 3.2576942,3.2576942 0 0 1 7.2333471,13.004526 Z M 8.9707847,10.398369 10.156585,9.2125688 a 0.34748739,0.34748739 0 1 1 0.490826,0.4908261 L 9.46161,10.889195 A 0.34748739,0.34748739 0 1 1 8.9925026,10.398369 Z"
+       class="clr-i-solid--badged clr-i-solid-path-3--badged"
+       id="path3"
+       style="fill:#ebdbb2;fill-opacity:1;stroke-width:0.434358" />
+    <circle
+       cx="-3.9756527"
+       cy="-13.004526"
+       r="2.1717961"
+       class="clr-i-solid--badged clr-i-solid-path-4--badged clr-i-badge"
+       id="circle3"
+       style="fill:#ebdbb2;fill-opacity:1;stroke-width:0.434358"
+       transform="scale(-1)" />
+  </g>
+</svg>
